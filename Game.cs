@@ -29,16 +29,23 @@ namespace RockPaperScissorsLizardSpock
             return gameSymbols.SymbolValuesList;
 
         }
-        
+
+        public void PlayAgain()
+        {
+
+        }
+
+
 
         public void DetermineWinner(Player p1, Player p2)
         {
             playerChoices.Add(p1.Selection);
             playerChoices.Add(p2.Selection);          
             Winner = (3 + playerChoices[0] - playerChoices[1]) % 3;
-
+            
             if (Winner == 1)
             {
+                Console.WriteLine();
                 Console.WriteLine("{0} Wins!", p1.Name);
                 p1.wins++;
                 p2.losses++;

@@ -8,6 +8,12 @@ namespace RockPaperScissorsLizardSpock
         {
             PaperValue = 2;
         }
+
+        IDisplay displayWin()
+        {
+            Console.WriteLine("Paper Wins");
+            return displayWin();
+        }
         public int PaperValue { get; private set; }
 
         public void DisplayWin()

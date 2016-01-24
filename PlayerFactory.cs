@@ -8,6 +8,12 @@ namespace RockPaperScissorsLizardSpock
 {
     public class PlayerFactory : Player
     {
+        public PlayerFactory()
+        {
+            Player player = new Player();
+            setPlayerName(player);
+            SetPlayerSelection(player);
+        }
         public Player setPlayerName(Player player)
         {
             Console.WriteLine("Please enter your name");

@@ -12,6 +12,8 @@ namespace RockPaperScissorsLizardSpock
         {
             PlayerFactory playerFactory = new PlayerFactory();
             Player player1 = new Player();
+            PlayGame playGame = new PlayGame();
+            playGame.NumberOfRounds = playGame.NumberOfRounds;
             playerFactory.setPlayerName(player1);
             playerFactory.SetPlayerSelection(player1);
             Player player2 = new Player();

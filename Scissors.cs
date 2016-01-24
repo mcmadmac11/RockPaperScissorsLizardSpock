@@ -10,6 +10,11 @@ namespace RockPaperScissorsLizardSpock
         {
             ScissorsValue = 3;
         }
+        IDisplay displayWin()
+        {
+            Console.WriteLine("Scissors Wins");
+            return displayWin();
+        }
 
         public void DisplayWin()
         {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RockPaperScissorsLizardSpock
 {
-    interface IDisplay
+    public interface IDisplay
     {
         void DisplayWin();
         void DisplayLoss();

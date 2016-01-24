@@ -3,3 +3,4 @@ c:\users\dan\documents\visual studio 2015\Projects\RockPaperScissorsLizardSpock\
 c:\users\dan\documents\visual studio 2015\Projects\RockPaperScissorsLizardSpock\bin\Debug\RockPaperScissorsLizardSpock.pdb
 c:\users\dan\documents\visual studio 2015\Projects\RockPaperScissorsLizardSpock\obj\Debug\RockPaperScissorsLizardSpock.exe
 c:\users\dan\documents\visual studio 2015\Projects\RockPaperScissorsLizardSpock\obj\Debug\RockPaperScissorsLizardSpock.pdb
+C:\Users\Dan\documents\visual studio 2015\Projects\RockPaperScissorsLizardSpock\obj\Debug\RockPaperScissorsLizardSpock.csprojResolveAssemblyReference.cache
