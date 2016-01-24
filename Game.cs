@@ -15,6 +15,22 @@ namespace RockPaperScissorsLizardSpock
 
         public Player player;
 
+        public GameSymbols gameSymbols = new GameSymbols();
+        
+        public List<int> SetGameSymbols()
+        {
+            gameSymbols.SymbolValuesList = new List<int>();
+            gameSymbols.rock = new Rock();
+            gameSymbols.paper = new Paper();
+            gameSymbols.scissors = new Scissors();
+            gameSymbols.SymbolValuesList.Add(gameSymbols.rock.RockValue);
+            gameSymbols.SymbolValuesList.Add(gameSymbols.paper.PaperValue);
+            gameSymbols.SymbolValuesList.Add(gameSymbols.scissors.ScissorsValue);
+            return gameSymbols.SymbolValuesList;
+
+        }
+        
+
         public void DetermineWinner(Player p1, Player p2)
         {
             playerChoices.Add(p1.Selection);

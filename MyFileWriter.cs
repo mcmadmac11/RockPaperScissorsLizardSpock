@@ -32,7 +32,8 @@ score: {1}
 highScore: {2}
 wins: {3}
 losses: {4}
-", player.Name, player.score, player.highScore[0].ToString(), player.wins, player.losses));
+ties: {5}
+", player.Name, player.score, player.highScore[0].ToString(), player.wins, player.losses, player.Ties));
 
 
         }

@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Game.cs" />
+    <Compile Include="GameSymbols.cs" />
     <Compile Include="IDisplay.cs" />
     <Compile Include="MyFileWriter.cs" />
     <Compile Include="Paper.cs" />

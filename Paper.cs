@@ -4,21 +4,21 @@ namespace RockPaperScissorsLizardSpock
 {
     public class Paper : IDisplay
     {
-        public int PaperValue = 3;
-
         public Paper()
         {
-            int paperValue = PaperValue;
+            PaperValue = 2;
+        }
+        public int PaperValue { get; private set; }
+
+        public void DisplayWin()
+        {
+            Console.WriteLine("Paper Wins! :] ");
         }
 
         public void DisplayLoss()
         {
-            Console.WriteLine("Paper Wins!");
+            Console.WriteLine("Paper Loses :[ ");
         }
 
-        public void DisplayWin()
-        {
-            Console.WriteLine("Paper Loses :(");
-        }
     }
 }
