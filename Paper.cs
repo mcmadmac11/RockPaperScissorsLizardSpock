@@ -6,15 +6,12 @@ namespace RockPaperScissorsLizardSpock
     {
         public Paper()
         {
+            SymbolName = "Paper";
             PaperValue = 2;
         }
 
-        IDisplay displayWin()
-        {
-            Console.WriteLine("Paper Wins");
-            return displayWin();
-        }
         public int PaperValue { get; private set; }
+        public string SymbolName { get; set; }
 
         public void DisplayWin()
         {

@@ -5,9 +5,11 @@ namespace RockPaperScissorsLizardSpock
     public class Rock : IDisplay
     {
         public int RockValue { get; private set; }
-        string disp;
+        public string SymbolName { get; set; }
+
         public Rock()
         {
+            SymbolName = "Rock";
             RockValue = 1;
         }
 

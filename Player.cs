@@ -16,15 +16,13 @@ namespace RockPaperScissorsLizardSpock
         public int score { get; set; }
         public int wins { get; set; }
         public int losses { get; set; }
+        public List<int> HighScoreList { get; set; }
         //implement running high score count
         public List<int> highScore = new List<int>() { 0 };
         public int highScores;
+
         public Player()
         {
-        }
-
-        public Player(string name, int selection)
-        { 
         }
     }
 }
