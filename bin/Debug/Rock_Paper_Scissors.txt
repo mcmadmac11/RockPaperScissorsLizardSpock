@@ -1,61 +1,4 @@
 
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 1
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 1
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 1
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 1
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 1
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 1
-
-Player: dan
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 1
-
-Player: nad
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 1
-
 Player: dan
 score: 0 
 highScore: 0
@@ -63,171 +6,17 @@ wins: 0
 losses: 1
 ties: 0
 
-Player: nad
+Player: ryan
 score: 0 
 highScore: 0
 wins: 1
 losses: 0
 ties: 0
 
-Player: 
+Player: dan
 score: 0 
 highScore: 0
-wins: 0
-losses: 0
-ties: 1
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 1
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 1
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 1
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 1
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 1
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 0
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 0
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 0
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 0
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 0
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 0
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 0
-
-Player: d
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 0
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 0
-
-Player: Sara
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 0
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 0
-
-Player: ssara
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 0
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 0
-
-Player: SARA
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 0
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 0
-
-Player: sara
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 0
-
-Player: 
-score: 0 
-highScore: 0
-wins: 0
+wins: 1
 losses: 0
 ties: 0
 
@@ -238,16 +27,16 @@ wins: 0
 losses: 1
 ties: 0
 
-Player: 
-score: 0 
-highScore: 0
-wins: 0
-losses: 0
-ties: 0
-
-Player: saraa
+Player: dan
 score: 0 
 highScore: 0
 wins: 1
 losses: 0
+ties: 0
+
+Player: sara
+score: 0 
+highScore: 0
+wins: 0
+losses: 1
 ties: 0

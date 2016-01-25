@@ -43,6 +43,21 @@ namespace RockPaperScissorsLizardSpock
             }
         }
 
+
+        public static int MainMenu()
+        {            
+            Console.WriteLine("Please make a selection");
+            Console.WriteLine("1.  1 Player Mode");
+            Console.WriteLine("2.  2 Player Mode");
+            Console.WriteLine("3.  Exit");
+
+            int MenuSelection = Convert.ToInt32(Console.ReadLine());
+
+            return MenuSelection;
+
+
+        }
+
         public void GameIntro()
         {
             Console.WriteLine(
